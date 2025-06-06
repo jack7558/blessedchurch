@@ -41378,7 +41378,7 @@ $1(a){this.a.SJ()},
 $S:5}
 A.aei.prototype={
 $1(a){var s=null
-return A.am0(s,new A.FX(B.x,new A.b7(20,20,20,20),A.Hc("assets/main_design.png",s,500,500),s),B.aK,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aeh(a),s,s,s)},
+return A.am0(s,new A.FX(B.x,new A.b7(20,20,20,20),A.Hc("assets/invitation1.jpg",s,500,500),s),B.aK,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aeh(a),s,s,s)},
 $S:479}
 A.aeh.prototype={
 $0(){A.Iu(this.a,!1).fP()},
@@ -41389,7 +41389,7 @@ return new A.xh(B.Fw,"Flutter Demo",A.ana(s,A.apB(B.R,s,s,B.G1),"Title",s),s)}}
 A.EZ.prototype={
 N(a){var s,r,q,p=null,o=A.bY(a,p,t.w).w.a.a*0.05
 if(o<20)o=20
-if(o>50)o=50
+if(o>30)o=30
 s=v.G.AbortController
 s=new A.a7x(new A.VU(new s()))
 A.cR(3,"retries")
