@@ -1,0 +1,12 @@
+# 기본 사이트 설정
+title: Blessed Church
+description: 복된교회 공식 웹사이트입니다.
+url: "https://jack7558.github.io/blessedchurch"
+
+# sitemap.xml 포함
+include:
+  - sitemap.xml
+
+# Jekyll 옵션 (필요 시 추가)
+markdown: kramdown
+theme: minima
