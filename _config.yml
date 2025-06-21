@@ -1,3 +1,6 @@
+# Plugin settings
+plugins:
+  - jekyll-sitemap
 # 기본 사이트 설정
 title: Blessed Church
 description: 복된교회 공식 웹사이트입니다.
